@@ -1,0 +1,90 @@
+2020-02-27T06:52:59+00:00 CRITICAL Object of class WP_Post could not be converted to string in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/my-first-plugins/my-first.php on line 15
+
+2020-02-27T07:45:09+00:00 CRITICAL Uncaught Error: Call to undefined function sub_string() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/my-first-plugins/my-first.php:14
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): my_first_app('\n<p>hihi</p>\n')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters('\n<p>hihi</p>\n', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/post-template.php(253): apply_filters('the_content', '<!-- wp:paragra...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/storefront/inc/storefront-template-functions.php(418): the_content('Continue readin...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): storefront_post_content('')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin. in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/my-first-plugins/my-first.php on line 14
+
+2020-02-27T07:45:27+00:00 CRITICAL Uncaught Error: Call to undefined function substring() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/my-first-plugins/my-first.php:14
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): my_first_app('\n<p>hihi</p>\n')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters('\n<p>hihi</p>\n', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/post-template.php(253): apply_filters('the_content', '<!-- wp:paragra...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/storefront/inc/storefront-template-functions.php(418): the_content('Continue readin...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): storefront_post_content('')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.p in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/my-first-plugins/my-first.php on line 14
+
+2020-02-27T09:01:12+00:00 CRITICAL require(): Failed opening required 'includes/hook-filter.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 12
+
+2020-02-27T09:01:12+00:00 CRITICAL require(): Failed opening required 'includes/hook-filter.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 12
+
+2020-02-27T09:11:17+00:00 CRITICAL require(): Failed opening required 'includes/option_api.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 14
+
+2020-02-27T09:11:32+00:00 CRITICAL require(): Failed opening required 'includes/option_api.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 14
+
+2020-02-27T09:13:32+00:00 CRITICAL require(): Failed opening required 'includes/option_api.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 14
+
+2020-02-27T09:13:57+00:00 CRITICAL require(): Failed opening required 'includes/option_api.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 14
+
+2020-02-27T09:13:58+00:00 CRITICAL require(): Failed opening required 'includes/option_api.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 14
+
+2020-02-27T09:14:08+00:00 CRITICAL require(): Failed opening required 'includes/option-api.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 14
+
+2020-02-27T09:26:55+00:00 CRITICAL syntax error, unexpected 'delete_option' (T_STRING) in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php on line 7
+
+2020-02-27T09:48:02+00:00 CRITICAL Cannot redeclare add_submenu_options() (previously declared in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php:5) in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php on line 28
+
+2020-02-27T09:50:08+00:00 CRITICAL Cannot redeclare add_submenu_options() (previously declared in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php:5) in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php on line 28
+
+2020-02-27T09:51:40+00:00 CRITICAL Cannot redeclare add_submenu_options() (previously declared in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php:5) in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php on line 28
+
+2020-02-27T09:57:08+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php on line 17
+
+2020-02-27T10:19:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function update_option(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php on line 21 and at least 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/option.php:305
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php(21): update_option('mailer_gmail_us...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): access_menu_options('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(254): do_action('appearance_page...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/themes.php(10): require_once('/Applications/X...')
+#6 {mai in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/option.php on line 305
+
+2020-02-27T10:40:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function update_option(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php on line 21 and at least 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/option.php:305
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php(21): update_option('mailer_gmail_us...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): access_menu_options('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(254): do_action('appearance_page...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/themes.php(10): require_once('/Applications/X...')
+#6 {mai in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/option.php on line 305
+
+2020-02-27T10:45:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function update_option(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php on line 21 and at least 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/option.php:305
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php(21): update_option('mailer_gmail_us...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): access_menu_options('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(254): do_action('appearance_page...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/themes.php(10): require_once('/Applications/X...')
+#6 {mai in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/option.php on line 305
+
+2020-02-27T10:47:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function update_option(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php on line 21 and at least 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/option.php:305
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/includes/options-api.php(21): update_option('mailer_gmail_us...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): access_menu_options('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(254): do_action('appearance_page...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/themes.php(10): require_once('/Applications/X...')
+#6 {mai in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/option.php on line 305
+
+2020-02-27T11:11:36+00:00 CRITICAL require(): Failed opening required 'includes/admin-menu.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
