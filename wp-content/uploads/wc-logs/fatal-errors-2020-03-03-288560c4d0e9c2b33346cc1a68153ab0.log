@@ -1,0 +1,147 @@
+2020-03-03T02:09:54+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:11:54+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:13:54+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:16:12+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:18:12+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:20:12+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:22:12+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:24:12+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:26:22+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:28:22+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:30:22+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:32:23+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:34:23+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:36:33+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:38:33+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:40:33+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:42:33+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:44:33+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:46:33+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:48:33+00:00 CRITICAL require(): Failed opening required 'include/custom-field-update-price.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 15
+
+2020-03-03T02:54:35+00:00 CRITICAL syntax error, unexpected 'rawcustom' (T_STRING) in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field-update-price.php on line 17
+
+2020-03-03T03:12:45+00:00 CRITICAL require(): Failed opening required 'includes/admin-menu.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 16
+
+2020-03-03T03:14:53+00:00 CRITICAL require(): Failed opening required 'includes/custom-field-calculate.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 16
+
+2020-03-03T03:16:57+00:00 CRITICAL require(): Failed opening required 'includes/custom-field-calculate.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 16
+
+2020-03-03T03:19:07+00:00 CRITICAL require(): Failed opening required 'includes/custom-field-calculate.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php on line 16
+
+2020-03-03T05:09:05+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field-font-end.php:25
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): woo_custom_billing('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php(33): do_action('woocommerce_bef...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1581): wc_get_template('single-product/...')
+#6 /Applications/XAMPP/x in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field-font-end.php on line 25
+
+2020-03-03T08:54:34+00:00 CRITICAL Uncaught Error: Class 'Custom_field\Foo' not found in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php:29
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php(12): require()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(360): include_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(96): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(37): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin-ajax.php(22): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 29
+
+2020-03-03T08:56:44+00:00 CRITICAL Uncaught Error: Class 'Custom_field\Foo' not found in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php:29
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php(12): require()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(360): include_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(96): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(37): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin-ajax.php(22): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 29
+
+2020-03-03T08:58:44+00:00 CRITICAL Uncaught Error: Class 'Custom_field\Foo' not found in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php:29
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php(12): require()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(360): include_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(96): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(37): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin-ajax.php(22): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 29
+
+2020-03-03T09:00:07+00:00 CRITICAL require(): Failed opening required 'mycustom/code_1.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 3
+
+2020-03-03T09:00:09+00:00 CRITICAL require(): Failed opening required 'mycustom/code_1.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 3
+
+2020-03-03T09:01:30+00:00 CRITICAL require(): Failed opening required '/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/storefrontmycustom/code_1.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 3
+
+2020-03-03T09:01:56+00:00 CRITICAL require(): Failed opening required '/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/storefrontcode_1.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 3
+
+2020-03-03T09:02:09+00:00 CRITICAL Uncaught Error: Call to a member function addCustomFieldAdmin() on null in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php:7
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php(12): require()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(360): include_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(96): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(37): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(34): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/post.php(12): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 7
+
+2020-03-03T09:11:53+00:00 CRITICAL Uncaught Error: Class 'MyCustom' not found in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php:11
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php(12): require()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(360): include_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(96): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(37): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(34): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/post.php(12): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 11
+
+2020-03-03T09:12:46+00:00 CRITICAL Uncaught Error: Class 'MyCustom' not found in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php:11
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/wp-learn.php(12): require()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(360): include_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(96): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(37): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(34): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/post.php(12): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 11
+
+2020-03-03T09:55:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MyCustom::cfwc_validate_custom_field(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php:58
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MyCustom->cfwc_validate_custom_field(true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(true, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(797): apply_filters('woocommerce_add...', true, 87, 1)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(771): WC_Form_Handler::add_to_cart_handler_simple(87)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): WC_F in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 58
+
+2020-03-03T10:02:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MyCustom::cfwc_validate_custom_field(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php:58
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MyCustom->cfwc_validate_custom_field(true, 87)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(true, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(797): apply_filters('woocommerce_add...', true, 87, 1)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(771): WC_Form_Handler::add_to_cart_handler_simple(87)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288):  in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field.php on line 58
+
