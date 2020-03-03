@@ -112,3 +112,17 @@ Stack trace:
 
 2020-03-02T09:56:11+00:00 CRITICAL Cannot redeclare cfwc_display_custom_field() (previously declared in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field-admin.php:27) in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field-font-end.php on line 25
 
+2020-03-02T15:40:26+00:00 CRITICAL syntax error, unexpected end of file in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field-admin.php on line 21
+
+2020-03-02T15:42:26+00:00 CRITICAL syntax error, unexpected end of file in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field-admin.php on line 21
+
+2020-03-02T16:06:32+00:00 CRITICAL Uncaught Error: Call to undefined function prinf() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field-font-end.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): cfwc_display_custom_field('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php(33): do_action('woocommerce_bef...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1581): wc_get_template('single-product/...')
+#6 /Applications/XAMPP in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/wp-learn/include/custom-field-font-end.php on line 12
+

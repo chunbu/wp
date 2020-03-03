@@ -6,12 +6,12 @@
  * @param Integer $product_id Product ID.
  * @param Boolean $quantity Quantity
  */
-function cfwc_validate_custom_field( $passed, $product_id, $quantity ) {
-    if( empty( $_POST['cfwc-title-field'] ) ) {
-    // Fails validation
-    $passed = false;
-    wc_add_notice( __( 'Please enter a value into the text field', 'cfwc' ), 'error' );
+function cfwc_validate_custom_field($passed, $post_id, $quantity ){
+    if(empty($_POST['cfwc-title-field'])){
+        $passed = false;
+        wc_add_notice(__(' Please enter a value into the next field. ', 'cfwc'), 'error');
+
     }
     return $passed;
-   }
-   add_filter( 'woocommerce_add_to_cart_validation', 'cfwc_validate_custom_field', 10, 3 );
+}
+add_filter('woocommerce_add_to_cart_validation', 'cfwc_validate_custom_field', 10, 3);
