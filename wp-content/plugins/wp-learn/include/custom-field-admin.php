@@ -15,11 +15,10 @@ function cfwc_create_custom_field() {
  }
  add_action( 'woocommerce_product_options_general_product_data', 'cfwc_create_custom_field' );
 
- function cfwc_save_custom_field( $post_id ) {
+function cfwc_save_custom_field( $post_id ) {
   $product = wc_get_product( $post_id );
   $title = isset( $_POST['custom_text_field_title'] ) ? $_POST['custom_text_field_title'] : '';
   $product->update_meta_data( 'custom_text_field_title', sanitize_text_field( $title ) );
   $product->save();
  }
  add_action( 'woocommerce_process_product_meta', 'cfwc_save_custom_field' );
-
