@@ -1,0 +1,129 @@
+2020-03-04T01:27:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_local_file_contents(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_local_file_contents('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:27:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_local_file_contents(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_local_file_contents('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:28:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_local_file_contents(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_local_file_contents('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:28:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_local_file_contents(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_local_file_contents('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:28:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_local_file_contents(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_local_file_contents('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:29:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_local_file_contents(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_local_file_contents('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:30:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_local_file_contents(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_local_file_contents('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:32:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_local_file_contents(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_local_file_contents('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:33:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_local_file_contents(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_local_file_contents('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:39:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:39:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:40:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+
+2020-03-04T01:41:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(170): do_action('admin_init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 12
+

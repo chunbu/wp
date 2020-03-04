@@ -8,24 +8,7 @@ Author: MB
 Author URI: merchbridge.com/about
 */
 
-// class MB_Personalized{
-//     function __construct(){
-//         // $this->load();
-//     }
-//     function load(){
-        
-//     }
-// }
-// $person = new MB_Personalized;
-// $person->load();
+require 'include/personalized.php';
 
-$request = wp_remote_get( 'config/persionalized-configs.php' );
 
-        if( is_wp_error( $request ) ) {
-            return false; // Bail early
-        }
-        
-        $body = wp_remote_retrieve_body( $request );
-        
-        $data = json_decode( $body );
-        var_dump($data); die;
+
