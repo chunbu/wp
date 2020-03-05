@@ -1,0 +1,81 @@
+2020-03-05T02:04:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:13
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/content-single-product.php(27): do_action('woocommerce_bef...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/template.php(724): require('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp- in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 13
+
+2020-03-05T02:05:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:13
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/content-single-product.php(27): do_action('woocommerce_bef...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/template.php(724): require('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp- in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 13
+
+2020-03-05T02:26:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:14
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php(33): do_action('woocommerce_bef...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 14
+
+2020-03-05T02:26:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:14
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php(33): do_action('woocommerce_bef...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 14
+
+2020-03-05T07:33:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:14
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php(33): do_action('woocommerce_bef...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 14
+
+2020-03-05T07:35:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:14
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php(33): do_action('woocommerce_bef...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 14
+
+2020-03-05T07:35:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:14
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php(33): do_action('woocommerce_bef...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 14
+
+2020-03-05T07:38:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:14
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php(33): do_action('woocommerce_bef...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 14
+
+2020-03-05T07:38:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::get_data_json_no1(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:14
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->get_data_json_no1('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php(33): do_action('woocommerce_bef...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 14
+

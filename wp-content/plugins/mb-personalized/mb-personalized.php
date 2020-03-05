@@ -9,6 +9,3 @@ Author URI: merchbridge.com/about
 */
 
 require 'include/personalized.php';
-
-
-
