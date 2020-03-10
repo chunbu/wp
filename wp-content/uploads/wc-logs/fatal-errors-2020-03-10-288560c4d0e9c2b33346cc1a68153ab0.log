@@ -112,3 +112,39 @@ Stack trace:
 #3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(461): do_action('woocommerce_che...', Object(WC_Order_Item_Product), '553bcbb80fee366...', Array, Object(WC_Order))
 #4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(387): WC_Checkout->create_order_line_items(Object(WC_Order), Object(W in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 224
 
+2020-03-10T08:09:26+00:00 CRITICAL Uncaught Error: Call to undefined function str_keys() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:176
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc- in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 176
+
+2020-03-10T08:10:19+00:00 CRITICAL Uncaught Error: Call to undefined function value() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:176
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-sho in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 176
+
+2020-03-10T08:10:26+00:00 CRITICAL Uncaught Error: Call to undefined function values() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:176
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-sh in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 176
+
+2020-03-10T08:21:04+00:00 CRITICAL Uncaught Error: Call to undefined function string() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:176
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-sh in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 176
+
