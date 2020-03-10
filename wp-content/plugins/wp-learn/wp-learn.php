@@ -9,12 +9,12 @@ Author URI: github.com/chunbu/wp
 */
 
 
-require 'include/custom-field-admin.php';
-require 'include/custom-field-font-end.php';
-require 'include/validate-custom-field.php';
-// require 'includes/options-api.php';
-// require 'includes/admin-menu.php';
-// require 'includes/my-meta-boxes.php';
+require 'include/custom-field.php';
+// require 'include/custom-field-font-end.php';
+// require 'include/validate-custom-field.php';
+// require 'include/custom-field-update-price.php';
+// require 'include/custom-field-calculate.php';
+// require 'include/custom-field-save-title.php';
 // require 'includes/metabox-three-steps.php';
 // require 'includes/custom-post-type.php';
 // require 'includes/custom-taxonomy.php';
