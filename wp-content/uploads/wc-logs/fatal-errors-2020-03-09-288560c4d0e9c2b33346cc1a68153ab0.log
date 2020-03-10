@@ -1,0 +1,921 @@
+2020-03-09T03:15:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(43): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp- in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:16:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(43): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp- in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:17:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:18:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-customer.php(60): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/word in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:19:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-customer.php(60): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/word in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:19:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-customer.php(60): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/word in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:19:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-customer.php(60): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/word in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:20:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-customer.php(60): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/word in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:22:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:23:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:23:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:23:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php(102): do_action('woocommerce_car...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applica in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:24:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php(102): do_action('woocommerce_car...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applica in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:24:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php(102): do_action('woocommerce_car...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applica in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:25:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php(102): do_action('woocommerce_car...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applica in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:25:46+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/form-checkout.php(56): do_action('woocommerce_che...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:52:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(WC_Checkout))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249) in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:58:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/form-checkout.php(62): do_action('woocommerce_che...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:58:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/form-checkout.php(62): do_action('woocommerce_che...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T03:59:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/form-checkout.php(59): do_action('woocommerce_che...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:00:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/form-checkout.php(59): do_action('woocommerce_che...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:00:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/form-checkout.php(62): do_action('woocommerce_che...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:01:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/form-checkout.php(62): do_action('woocommerce_che...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:05:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:27:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/form-checkout.php(59): do_action('woocommerce_che...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:27:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/form-checkout.php(40): do_action('woocommerce_che...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Ap in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:34:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-customer.php(60): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/word in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:36:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:38:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:38:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:40:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:45:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:45:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:45:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:45:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:50:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(12)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-item.php(46): do_action('woocommerce_ord...', 12, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-con in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T04:58:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(12)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-item.php(46): do_action('woocommerce_ord...', 12, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-con in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T05:04:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:183
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(12)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-item.php(46): do_action('woocommerce_ord...', 12, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-con in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 183
+
+2020-03-09T07:25:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:181
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(13)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/emails/email-order-items.php(58): do_action('woocommerce_ord...', 13, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-con in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 181
+
+2020-03-09T07:26:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:181
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(14)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/emails/email-order-items.php(58): do_action('woocommerce_ord...', 14, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-con in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 181
+
+2020-03-09T07:26:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:181
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(15)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/emails/email-order-items.php(58): do_action('woocommerce_ord...', 15, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-con in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 181
+
+2020-03-09T07:26:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:181
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(16)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/emails/email-order-items.php(58): do_action('woocommerce_ord...', 16, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-con in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 181
+
+2020-03-09T07:27:29+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:181
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(17)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/emails/email-order-items.php(58): do_action('woocommerce_ord...', 17, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-con in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 181
+
+2020-03-09T07:38:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:181
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(18)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-item.php(46): do_action('woocommerce_ord...', 18, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-con in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 181
+
+2020-03-09T07:44:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:179
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(18)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-item.php(50): do_action('woocommerce_ord...', 18, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-con in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 179
+
+2020-03-09T08:04:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:179
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(' <strong class=...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(' <strong class=...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-item.php(44): apply_filters('woocommerce_ord...', ' <strong class=...', Object(WC_Order_Item_Product))
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#4 /Applications/XAMPP/x in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 179
+
+2020-03-09T08:06:09+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:179
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(' <strong class=...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(' <strong class=...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-item.php(44): apply_filters('woocommerce_ord...', ' <strong class=...', Object(WC_Order_Item_Product))
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#4 /Applications/XAMPP/x in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 179
+
+2020-03-09T08:09:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 1 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:179
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_cart(' <strong class=...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(' <strong class=...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/order-details-item.php(44): apply_filters('woocommerce_ord...', ' <strong class=...', Object(WC_Order_Item_Product))
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#4 /Applications/XAMPP/x in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 179
+
+2020-03-09T08:28:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::pin_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:160
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->pin_data_add_to_cart(Array, 'd3d9446802a4425...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1109): apply_filters('woocommerce_add...', Array, 'd3d9446802a4425...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugin in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 160
+
+2020-03-09T08:28:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::pin_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 3 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:160
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->pin_data_add_to_cart(Array, 'd3d9446802a4425...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1109): apply_filters('woocommerce_add...', Array, 'd3d9446802a4425...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugin in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 160
+
+2020-03-09T08:29:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::pin_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 5 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:160
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->pin_data_add_to_cart(Array, 'd3d9446802a4425...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1109): apply_filters('woocommerce_add...', Array, 'd3d9446802a4425...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugin in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 160
+
+2020-03-09T08:29:47+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::pin_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 5 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:160
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->pin_data_add_to_cart(Array, 'd3d9446802a4425...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1109): apply_filters('woocommerce_add...', Array, 'd3d9446802a4425...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugin in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 160
+
+2020-03-09T08:30:21+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:170
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('A3d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 170
+
+2020-03-09T08:30:51+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:170
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('A3d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 170
+
+2020-03-09T08:43:59+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:167
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 167
+
+2020-03-09T08:46:17+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:167
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 167
+
+2020-03-09T08:47:39+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:167
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 167
+
+2020-03-09T08:48:47+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:167
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 167
+
+2020-03-09T08:49:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:189
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/ in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 189
+
+2020-03-09T08:49:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:189
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 189
+
+2020-03-09T08:49:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:189
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/ in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 189
+
+2020-03-09T08:50:51+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:167
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('d3d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 167
+
+2020-03-09T08:54:27+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:174
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('d3d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 174
+
+2020-03-09T08:55:09+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:174
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('d3d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 174
+
+2020-03-09T08:57:16+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('d3d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 168
+
+2020-03-09T08:58:34+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('d3d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 168
+
+2020-03-09T08:58:56+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 168
+
+2020-03-09T09:00:02+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 168
+
+2020-03-09T09:00:38+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 168
+
+2020-03-09T09:01:05+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 168
+
+2020-03-09T09:01:18+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 168
+
+2020-03-09T09:01:38+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('d3d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 168
+
+2020-03-09T09:02:50+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 168
+
+2020-03-09T09:04:57+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 168
+
+2020-03-09T09:08:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:190
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/ in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 190
+
+2020-03-09T09:09:18+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:170
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 170
+
+2020-03-09T09:10:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:190
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/ in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 190
+
+2020-03-09T09:10:46+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:190
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/ in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 190
+
+2020-03-09T09:10:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:190
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 190
+
+2020-03-09T09:10:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:190
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/ in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 190
+
+2020-03-09T09:13:42+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:170
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 170
+
+2020-03-09T09:15:02+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:171
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 171
+
+2020-03-09T09:17:32+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:172
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 172
+
+2020-03-09T09:23:54+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:170
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 170
+
+2020-03-09T09:24:10+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:170
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 170
+
+2020-03-09T09:24:17+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:170
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 170
+
+2020-03-09T09:25:22+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:170
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 170
+
+2020-03-09T09:28:58+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:172
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->pin_data_add_to_cart('23d9446802a4425...', 10, 1, 0, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1115): do_action('woocommerce_add...', 'd3d9446802a4425...', 10, 1, 0, Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-ha in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 172
+
+2020-03-09T09:37:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:211
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/ in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 211
+
+2020-03-09T09:43:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:212
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/ in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 212
+
+2020-03-09T09:43:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:212
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 212
+
+2020-03-09T09:43:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:212
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 212
+
+2020-03-09T09:48:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:218
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 218
+
+2020-03-09T09:56:47+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:186
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 186
+
+2020-03-09T10:04:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:186
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 186
+
+2020-03-09T10:04:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:186
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 186
+
+2020-03-09T10:12:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::pin_data_add_to_cart(), 4 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 6 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:167
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->pin_data_add_to_cart(Array, 10, 0, 1)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1027): apply_filters('woocommerce_add...', Array, 10, 0, 1)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/c in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 167
+
+2020-03-09T10:12:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::pin_data_add_to_cart(), 4 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 6 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:167
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->pin_data_add_to_cart(Array, 10, 0, 1)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1027): apply_filters('woocommerce_add...', Array, 10, 0, 1)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(799): WC_Cart->add_to_cart(10, 1)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/c in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 167
+
+2020-03-09T10:16:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:187
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 187
+
+2020-03-09T10:16:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:187
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 187
+
+2020-03-09T10:16:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function MB_Personalized::print_data_add_to_cart(), 2 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 4 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:187
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/inclu in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 187
+
+2020-03-09T10:32:29+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-09T10:33:46+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-09T10:33:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-09T10:57:25+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-09T10:57:37+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/review-order.php(40): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2211): wc_get_template('checkout/review...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): woocommerce_order_review('')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Arra in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-09T11:08:11+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2116): wc_get_template('cart/mini-cart....', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(184): woocommerce_mini_cart()
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): WC_AJAX::get_refreshed_fragments('')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312 in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-09T11:08:14+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2116): wc_get_template('cart/mini-cart....', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(184): woocommerce_mini_cart()
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): WC_AJAX::get_refreshed_fragments('')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312 in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-09T11:11:43+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/checkout/review-order.php(40): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2211): wc_get_template('checkout/review...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): woocommerce_order_review('')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Arra in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
