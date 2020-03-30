@@ -1,0 +1,150 @@
+2020-03-10T01:35:00+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2116): wc_get_template('cart/mini-cart....', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(184): woocommerce_mini_cart()
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): WC_AJAX::get_refreshed_fragments('')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312 in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-10T01:35:06+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2116): wc_get_template('cart/mini-cart....', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(184): woocommerce_mini_cart()
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): WC_AJAX::get_refreshed_fragments('')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312 in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-10T01:43:30+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2116): wc_get_template('cart/mini-cart....', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(184): woocommerce_mini_cart()
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): WC_AJAX::get_refreshed_fragments('')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312 in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-10T01:43:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/mini-cart.php(62): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2116): wc_get_template('cart/mini-cart....', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(184): woocommerce_mini_cart()
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): WC_AJAX::get_refreshed_fragments('')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312 in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-10T01:43:51+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3573
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3573
+
+2020-03-10T03:16:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function __(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 207 and at least 1 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/l10n.php:254
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php(207): __()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#5 /Applic in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/l10n.php on line 254
+
+2020-03-10T03:19:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function __(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 206 and at least 1 expected in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/l10n.php:254
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php(206): __()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#5 /Applic in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/l10n.php on line 254
+
+2020-03-10T03:40:32+00:00 CRITICAL Uncaught Error: Call to a member function add_meta_data() on null in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:224
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_bill(Object(WC_Order_Item_Product))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(461): do_action('woocommerce_che...', Object(WC_Order_Item_Product), '7265e51074c30b5...', Array, Object(WC_Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(387): WC_Checkout->create_order_line_items(Object(WC_Order), Object(WC_Cart))
+#5 /Applications/XAMPP/xa in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 224
+
+2020-03-10T03:40:40+00:00 CRITICAL Uncaught Error: Call to a member function add_meta_data() on null in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:224
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_bill(Object(WC_Order_Item_Product))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(461): do_action('woocommerce_che...', Object(WC_Order_Item_Product), '7265e51074c30b5...', Array, Object(WC_Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(387): WC_Checkout->create_order_line_items(Object(WC_Order), Object(WC_Cart))
+#5 /Applications/XAMPP/xa in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 224
+
+2020-03-10T03:40:48+00:00 CRITICAL Uncaught Error: Call to a member function add_meta_data() on null in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:224
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(290): MB_Personalized->print_data_add_to_bill(Object(WC_Order_Item_Product))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(461): do_action('woocommerce_che...', Object(WC_Order_Item_Product), '7265e51074c30b5...', Array, Object(WC_Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(387): WC_Checkout->create_order_line_items(Object(WC_Order), Object(WC_Cart))
+#5 /Applications/XAMPP/xa in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 224
+
+2020-03-10T03:51:13+00:00 CRITICAL Uncaught Error: Call to undefined function print_f() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:215
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_bill(Object(WC_Order_Item_Product), '97f39d3f1875f8b...', Array, Object(WC_Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(461): do_action('woocommerce_che...', Object(WC_Order_Item_Product), '97f39d3f1875f8b...', Array, Object(WC_Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(387): WC_Checkout->create_order_line_items(Object(WC_Order), Object(W in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 215
+
+2020-03-10T03:51:32+00:00 CRITICAL Uncaught Error: Call to undefined function print_f() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:215
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_bill(Object(WC_Order_Item_Product), '97f39d3f1875f8b...', Array, Object(WC_Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(461): do_action('woocommerce_che...', Object(WC_Order_Item_Product), '97f39d3f1875f8b...', Array, Object(WC_Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(387): WC_Checkout->create_order_line_items(Object(WC_Order), Object(W in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 215
+
+2020-03-10T04:03:53+00:00 CRITICAL Uncaught Error: Call to undefined function print_f() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:224
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_bill(Object(WC_Order_Item_Product), '553bcbb80fee366...', Array, Object(WC_Order))
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(461): do_action('woocommerce_che...', Object(WC_Order_Item_Product), '553bcbb80fee366...', Array, Object(WC_Order))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(387): WC_Checkout->create_order_line_items(Object(WC_Order), Object(W in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 224
+
+2020-03-10T08:09:26+00:00 CRITICAL Uncaught Error: Call to undefined function str_keys() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:176
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc- in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 176
+
+2020-03-10T08:10:19+00:00 CRITICAL Uncaught Error: Call to undefined function value() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:176
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-sho in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 176
+
+2020-03-10T08:10:26+00:00 CRITICAL Uncaught Error: Call to undefined function values() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:176
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-sh in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 176
+
+2020-03-10T08:21:04+00:00 CRITICAL Uncaught Error: Call to undefined function string() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php:176
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(288): MB_Personalized->print_data_add_to_cart(Array, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3568): apply_filters('woocommerce_get...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(88): wc_get_formatted_cart_item_data(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-sh in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/mb-personalized/include/personalized.php on line 176
+

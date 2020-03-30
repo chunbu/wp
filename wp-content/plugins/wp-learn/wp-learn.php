@@ -5,13 +5,13 @@ Plugin URI: http://fyaconiello.github.com/wp-plugin-template
 Description: Plugin the first
 Version: 1.0
 Author: bigCrab
-Author URI: github.com/chunbu/wp
+Author URI: github.com/no1-bigcrab/wp
 */
 
 
 require 'include/custom-field-admin.php';
 require 'include/custom-field-font-end.php';
-require 'include/validate-custom-field.php';
+require 'include/custom-field-validate.php';
 // require 'includes/options-api.php';
 // require 'includes/admin-menu.php';
 // require 'includes/my-meta-boxes.php';
